@@ -1,4 +1,0 @@
-ABCD
-hcsh
-hi myself sumit
-git basics
