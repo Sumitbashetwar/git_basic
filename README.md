@@ -1,3 +1,3 @@
 # git_basic
 -Hi myself Sumit ;
-- I am going to creat ea pull request
+- I am going to create a new  pull request
