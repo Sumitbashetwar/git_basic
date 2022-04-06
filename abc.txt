@@ -1,2 +1,3 @@
 Hi myself Sumit ;
 This is Git push and pull using terminal.
+After deletion of abc.txt
