@@ -1,2 +1,0 @@
-Hi myself sumit 
-This is my first git push.
